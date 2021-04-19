@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MuhammedYldz
+- ✨ I'm currently working as a Test Engineer at Sestek. 
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning phyton and flutter
 - 💞️ I’m looking to job on .net developer position.
