@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammed Mustafa YILDIZ 👋
 
-**QA Automation Engineer | SDET | Quality Advocate**
+**QA Engineer | SDET | Quality Advocate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin)](https://www.linkedin.com/in/muhammedmustafayildiz) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg?logo=github)](https://github.com/MuhammedYldz) [![Email](https://img.shields.io/badge/Email-Contact-red.svg?logo=gmail)](mailto:mhammedyldz@gmail.com)
 
